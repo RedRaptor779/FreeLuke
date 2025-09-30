@@ -1,4 +1,5 @@
 @echo off
-cd /d "C:\Users\micha\OneDrive\Desktop\freeluke"
+cd /d "C:\file_path"
 python freeluke.py
+
 pause
