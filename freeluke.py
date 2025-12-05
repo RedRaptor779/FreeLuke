@@ -1,3 +1,8 @@
+# Michael S. Pieczara
+# Github: RedRaptor779
+# A script that emulates the port tracing ability on a fluke
+# This script was written with the assistance of an AI Copilot
+
 import subprocess
 import sys
 import json
@@ -311,3 +316,4 @@ def main():
 
 if __name__ == "__main__":
     main_autodetect()
+
